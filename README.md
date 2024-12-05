@@ -20,10 +20,6 @@ project/
 │
 ├── tests/
 │   ├── test_task1.py  # Pytest for Task 1
-│   ├── test_task2.py  # Pytest for Task 2
-│   ├── test_task3.py  # Pytest for Task 3
-│   ├── test_task4.py  # Pytest for Task 4
-│   ├── test_task5.py  # Pytest for Task 5
 │
 ├── README.md          # This file
 ```
