@@ -19,7 +19,7 @@ project/
 │   ├── task5.c  # Task 5: Count Word Frequency
 │
 ├── tests/
-│   ├── test_task1.py  # Pytest for Task 1
+│   ├── test_tasks.py  # Pytest for Task 1
 │
 ├── README.md          # This file
 ```
